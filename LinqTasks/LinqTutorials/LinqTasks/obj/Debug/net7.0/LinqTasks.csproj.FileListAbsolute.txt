@@ -1,0 +1,15 @@
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net7.0\LinqTasks.exe
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net7.0\LinqTasks.deps.json
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net7.0\LinqTasks.runtimeconfig.json
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net7.0\LinqTasks.dll
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\bin\Debug\net7.0\LinqTasks.pdb
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.AssemblyInfo.cs
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.dll
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\refint\LinqTasks.dll
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.pdb
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.genruntimeconfig.cache
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\ref\LinqTasks.dll
+C:\Users\filip\Desktop\LinqTasks\LinqTasks\LinqTutorials\LinqTasks\obj\Debug\net7.0\LinqTasks.csproj.AssemblyReference.cache
